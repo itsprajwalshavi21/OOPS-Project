@@ -1,0 +1,5 @@
+RTPS    101    Rajesh    Cashutec,Building.Centre,Shaktinagar    8563214696
+RTPS    102    Mahesh    Vasavadatta.Cement.Kesoram.Industries.Limited    9563241563
+RTPS    103    Raam    Cashutec.Building.Centre,Shaktinagar    9902555645
+RTPS    104    Raju    Bagalkot.Cement.Factory,Bagalkot    7561651535
+RTPS    105    Suresh    Penna.Cement.Industries.Ltd,Bellary    9500486123

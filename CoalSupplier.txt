@@ -1,0 +1,4 @@
+Western.Coal.FieldsLimited,Nagpur    Train    KA35F1065    6300
+Mandakini.Coal.FieldsLimited,Odisha    Lorrey    22356783241    73000
+Singareni.Collieries.CompanyLimited,Telengana    Train    45267893421    80000
+South.Eastern.Coal.FeildsLimited,Chhattisgarh    Lorrey    DL05M1025    7500

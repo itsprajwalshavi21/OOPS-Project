@@ -1,0 +1,5 @@
+Cashutec.Cement.Factory    Lorrey    KA12F1069    4800
+Sedam.Vasavadatta.Cement.Factory    Lorrey    KA01E1889    3800
+Cashutec.Cement.Factory    Railway    2563941256    68000
+Bagalkot.Cement.Factory    Lorrey    KA02A1088    1800
+PennaCement.Industry    Railway    26943156875    73000
